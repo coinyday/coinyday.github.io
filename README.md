@@ -1,3 +1,5 @@
+![coinyday_logo](https://i.imgur.com/DplxWak.png)
+
 # [CoinyDay](http://www.coinyday.com)
 ### Invest in your future with the future
 
